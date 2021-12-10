@@ -1,6 +1,6 @@
 title: "Darwin's tank"
 author: "Darwin"
-description: "A blog pertinaing to a pet goldfish"
+description: "A blog containing the dispatches from a pet goldfish"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,9 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:ashopkins@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/pnutbutr302"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+# - {title: Mail, icon: envelope, url: "mailto:ashopkins@gmail.com"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/darwin_the_goldfish"}
+# - {title: Twitter, icon: twitter, url: "https://github.com/pnutbutr302"}
+# - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
