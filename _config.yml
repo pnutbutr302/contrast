@@ -1,6 +1,6 @@
 title: "Darwin's tank"
 author: "Darwin"
-description: "A blog containing the dispatches from a pet goldfish"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
