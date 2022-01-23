@@ -1,63 +1,25 @@
 ---
-title:  "Advanced examples"
+title:  "First Post"
 mathjax: true
 layout: post
-categories: media
+categories: admin
 ---
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
 
-## MathJax
+## Another $#%^ing blog?
+Well, yes!  For years, I wanted to have a blog about product management but...life (and Youtube and Netflix) got in the way of this goal.  (Squirrel!)  And, while my ADHD is not as bad as my nearly two year-old puppy, let's just say I've spent a lot of time learning about a lot of things without honing in on a specific topic.  So, now it's time!
 
-You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
+## Another $#%^ing blog about Product Management you say?
+Well, actually I'm taking it to the next level.  Yep, you got the SUPER SIZE extra value meal.  This blog is about product management AND machine learning (aka artificial intelligence).  No, I am not trying to generate SEO cred or adwords revenue...As a product manager, I see a growing need for our community to become more knowledgable about what this whole field is about.  So, I am going to share my perspective about various aspects of these two worlds: product management and machine learning.  This blog is not meant to be a technical read about the maths behind the modeling that facilitates machine learning; however, I will do posts about the types of machine learning to evolve your knowledge...that is why you're here after all, right?
 
-[Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
+## The Deets
+I plan to post every two weeks.  If I am crafty enough, then I will even link the posts over to Medium and maybe even onto META, Twitter and whatever the next time-draining interface that arrives to get you back here to read my post :).
 
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+## Our interactions
+I welcome comments from anyone, except bots unless they're nice bots, who reads my content.  Please keep your comments civil: don't bash anyone else (including me). My hope is we can learn from each other...as a rising tide lifts all boats.  
+Interested in learning about a specific area of machine learning?    Then leave it in the comments section below.  
 
-The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
-
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
-
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) describes how the quantum state of a quantum system changes with time.
-
-$$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
-
-## Code
-
-Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
-
-{% highlight c %}
-
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
-
-{% endhighlight %}
-
-## Gists
-
-With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
-
-<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
-
-## Images
-
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
-
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
-
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
-
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
-
-## Embedded content
-
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
-
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+Signing off for now.
+Tweewieler Musings
