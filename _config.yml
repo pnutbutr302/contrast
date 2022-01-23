@@ -1,6 +1,6 @@
-title: "Thoughts from a bike ride"
+title: "Product Management & AI"
 author: "Andrew"
-description: "Thoughts about product management, technology, life, and other stuff"
+description: "Making sense of artificial intelligence for product managers"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -9,9 +9,10 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
+#show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
+show_title: true            #always keep the site title visible
 
 # Menu
 
@@ -21,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 # - {title: Mail, icon: envelope, url: "mailto:ashopkins@gmail.com"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/darwin_the_goldfish"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/productmgmtai"}
 # - {title: Twitter, icon: twitter, url: "https://github.com/pnutbutr302"}
 # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
