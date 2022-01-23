@@ -5,8 +5,8 @@ permalink: /:year/:month/:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-paginate: 5
-paginate_path: /page/:num/
+#paginate: 5
+#paginate_path: "/page/:num/"
 
 # Layout
 
@@ -34,5 +34,5 @@ comments:
 
 plugins:
  - jekyll-feed
- - jekyll-paginate
- - jekyll-sitemap
+ #- jekyll-paginate
+ #- jekyll-sitemap
