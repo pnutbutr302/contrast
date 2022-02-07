@@ -1,3 +1,11 @@
+---
+title:  "So...What is artificial intelligence?"
+mathjax: true
+layout: post
+categories: admin
+---
+
+
 # So...What is artificial intelligence?
 According to Wikipedia: _Artificial Intelligence is intelligence demonstrated by machines, as opposed to natural intelligence displayed by animals including humans._
 
