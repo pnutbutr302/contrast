@@ -1,5 +1,5 @@
 ---
-title:  "So...What is artificial intelligence?"
+title:  "An AI Primer"
 mathjax: true
 layout: post
 categories: admin
