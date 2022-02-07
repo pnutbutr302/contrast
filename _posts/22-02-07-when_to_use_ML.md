@@ -1,3 +1,11 @@
+---
+title:  "To ML or Not ML: Five decision criteria for when to use Machine Learning"
+mathjax: true
+layout: post
+categories: admin
+---
+
+
 # To ML or Not ML: Five decision criteria for when to use Machine Learning
 
 _ML is like the songs from the Sirens in Greek myhtology, luring product managers with its buzz, only to get shirwrecked by not following the assessment criteria below.  Don't end up shipwrecked._
