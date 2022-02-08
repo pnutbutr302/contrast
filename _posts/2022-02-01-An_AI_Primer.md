@@ -1,10 +1,10 @@
 ---
-title:  "An AI Primer"
+title:  "Hey Product Managers!!"
 mathjax: true
 layout: post
 categories: admin
 ---
-
+## Here's your AI Primer
 
 # So...What is artificial intelligence?
 According to Wikipedia: _Artificial Intelligence is intelligence demonstrated by machines, as opposed to natural intelligence displayed by animals including humans._
@@ -12,7 +12,7 @@ According to Wikipedia: _Artificial Intelligence is intelligence demonstrated by
 So, yeah, we're talking about a general area of study that involves trying to have machines, specifically computers learn to make decisions for us.  (Cool!)
 
 ## Is this AI thing new?  
-No.  AI is still a pretty new discipline.  However, many of the concepts that make up AI are not that new.Below are great graphic of some key historic milestones:
+AI is still a pretty new discipline.  However, many of the concepts that make up AI are not that new.Below are great graphic of some key historic milestones:
 ![AI Milestone Timeline](https://i0.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2017/08/Anyoha-SITN-Figure-2-AI-timeline-2.jpg?w=1261&ssl=1)
 _source:[Harvard University](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/ "Harvard SITN")_
 
@@ -33,7 +33,7 @@ In contrast, machine learning involves sharing a ton of data by which a machine 
 Rules engines are still great techniques to use.  However, they have limitations due to (i) the volume of data available today and (ii) the complexity of the decisions we're asking of machines.  For example, Walmart has **75 MILLION** product SKUs on its website.  Creating a recommendation engine based on rules would be simply impossible.  
    
 ## We've entered a new era
-Now product managers **CAN** create personalized reccommendations for Walmart shoppers on walmart.com!  Now, prodcuct managers can tell you how long that Uber driver will take to get to you!  I could go one with use cases, but I think you get the point.  (I'll use future blog posts to dive into some of these use cases.) 
+Now product managers **CAN** create personalized recommendations for Walmart shoppers on walmart.com!  Now, product managers can tell you how long that Uber driver will take to get to you!  I could go one with use cases, but I think you get the point.  (I'll use future blog posts to dive into some of these use cases.) 
 
 ## Recap
 * Artificial Intelligence(AI)= large discipline; machine learning (ML) and deep learning are subsets of this disciple.
