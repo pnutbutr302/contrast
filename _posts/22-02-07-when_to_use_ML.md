@@ -5,7 +5,7 @@ layout: post
 categories: admin
 ---
 
-_ML is like the songs from the Sirens in Greek myhtology, luring product managers with its buzz, only to get shirwrecked by not following the assessment criteria below.  Don't end up shipwrecked._
+_ML is like the songs from the Sirens in Greek mythology, luring product managers with its buzz, only to get shipwrecked by not following the assessment criteria below.  Don't end up shipwrecked._
 
 ![Shipwreck](https://cdn.pixabay.com/photo/2019/03/16/20/16/shipwreck-4059620_1280.jpg)
 
